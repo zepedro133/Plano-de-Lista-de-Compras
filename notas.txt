@@ -1,0 +1,9 @@
+PASTA API - Novo Terminal
+=========
+cd api
+python main.py
+
+PASTA PROJETO - Terminal
+==============
+pyton main.py   ou play >
+
