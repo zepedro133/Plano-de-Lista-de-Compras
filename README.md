@@ -1,4 +1,4 @@
-# Relatório Técnico — Planeamento de Lista de Compras
+# Planeamento de Lista de Compras
 
 ## 1. Resumo
 Projeto em Python para criar, gerir e armazenar listas de compras com preços obtidos através de uma API local. Interface gráfica em Tkinter para adicionar/remover itens, visualizar subtotais e guardar listas numa base de dados SQLite.
